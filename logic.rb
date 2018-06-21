@@ -7,3 +7,15 @@
 # end
 # end
 # game("no")
+def animal(month)
+ if month == "May"
+   puts "you're a Fox!"
+ end 
+ if month == "june"
+   puts "you're a Blob fish!"
+ end
+end
+animal("may")
+
+
+
